@@ -7,8 +7,9 @@
 # Semana 2 - Storage
 1. Realizar [react- storage lab](url)
 
-# Semana 4 - Real time database
-
+# Semana 4 - Real time database 
+1. Install Android Studio
+2. [Kotlin lab](), gps, firebase database, storage
 
 # Semana 5 - Key Value database - MongoDB
 # Semana 6 - Key Value database - Cassandra
