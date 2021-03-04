@@ -3,6 +3,7 @@
 # Semana 1 - Storage
 
 1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
+2. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 
 # Semana 2 - Storage
 1. Realizar [react- storage lab](url)
