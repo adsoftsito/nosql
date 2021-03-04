@@ -1,12 +1,10 @@
 # Base de datos no convencionales [Lista de clase](https://docs.google.com/spreadsheets/d/1liC_lZBcTpHJI0FtsVlVTUaiJz-o2IPN/edit#gid=1934289639)
 # [Syllabus](https://www.uv.mx/fei/plan-de-estudios/ingenieria-de-software/) del curso 
 # Semana 1 - Storage
-
 1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
-2. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 
 # Semana 2 - Storage
-1. Realizar [react- storage lab](url)
+1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 
 # Semana 4 - Real time database 
 1. Install Android Studio
