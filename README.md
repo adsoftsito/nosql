@@ -7,6 +7,12 @@
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 
+# Proyecto Parcial 1, fecha entrega : 23 marzo 2021
+1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
+2. Logueo por facebook -> 20 pts
+3. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 40 pts
+4. Mostrar lista de elementos (productos, cursos, libros, etc.) -> 40 pts
+
 # Semana 4 - Real time database 
 1. Install Android Studio
 2. [Kotlin lab](), gps, firebase database, storage
