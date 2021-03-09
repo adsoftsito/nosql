@@ -5,6 +5,7 @@
 
 # Semana 2 - Storage
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
+2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 
 # Semana 4 - Real time database 
 1. Install Android Studio
