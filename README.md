@@ -6,7 +6,7 @@
 # Semana 2 - Storage
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
-3. Laboratorio React con [facebook login] (https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
+3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
 # Proyecto Parcial 1, fecha entrega : 23 marzo 2021
 1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
 2. Logueo por facebook -> 20 pts
