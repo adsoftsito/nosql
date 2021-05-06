@@ -21,6 +21,7 @@
 # Semana 5 - Key Value database - MongoDB (con nodejs - javascript)
 1. [Javascript desde Cero](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit#slide=id.gd2dfca2dfb_0_5)
 2. [NodeJS desde Cero](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit#slide=id.gd35d1e4ed9_0_183)
+3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
 
 # Semana 6 - Key Value database - Cassandra
 # Semana 8 - Apache HBASE
