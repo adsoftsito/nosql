@@ -23,6 +23,13 @@
 2. [NodeJS desde Cero](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit#slide=id.gd35d1e4ed9_0_183)
 3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
 
+# Proyecto MongoDB - Agregar una seccion de GuestBook, Twitter, Pedidos, etc. en su proyecto actual
+0. Fecha entrega: 20 mayo 2021
+1. Post de mensaje o pedido como usuario anonimo (super usuario, /setup) -> 25 pts
+2. Registro de usuario en mongodb (/signup) -> 25 pts
+3. Mostrar lista de posts, tweets, pedidos, etc. (/posts) -> 25 pts
+3. Publicar rest-api de mongodb como https (heroku, google app engine, etc) y mongodb en atlas -> 25 pts
+
 # Semana 6 - Key Value database - Cassandra
 # Semana 8 - Apache HBASE
 # Semana 10 - Grafos - ArangoDB
