@@ -22,6 +22,7 @@
 1. [Javascript desde Cero](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit#slide=id.gd2dfca2dfb_0_5)
 2. [NodeJS desde Cero](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit#slide=id.gd35d1e4ed9_0_183)
 3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
+4. [Deploy a heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 # Proyecto MongoDB - Agregar una seccion de GuestBook, Twitter, Pedidos, etc. en su proyecto actual
 0. Fecha entrega: 20 mayo 2021
