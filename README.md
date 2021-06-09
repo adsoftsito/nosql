@@ -45,9 +45,9 @@
 
 # Proyecto Hadoop - Instalar un cluster de Hadoop con 3 nodos ( 1 master y 2 esclavos)
 0. Fecha entrega: Dia de examen ordinario
-1. [Instalacion de los nodos] (https://www.linode.com/docs/guides/getting-started/) -> 30% ( de los 10 pts )
+1. [Instalacion de los nodos](https://www.linode.com/docs/guides/getting-started/) -> 30% ( de los 10 pts )
    NOTA: En este paso el tutorial usa otra nube, favor de tomar esta configuracion y hacer los nodos en Google Compute Engine
    
-2. [Instalacion y configuracion de hadoop] (https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) -> 40% ( de los 10 pts )
-3. [Probar con yarn] () -> 30% ( de los 10 pts )
+2. [Instalacion y configuracion de hadoop](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) -> 40% ( de los 10 pts )
+3. [Probar con yarn]() -> 30% ( de los 10 pts )
 
