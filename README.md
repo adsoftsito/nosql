@@ -1,4 +1,4 @@
-# Base de datos no convencionales [Lista de clase](https://docs.google.com/spreadsheets/d/1liC_lZBcTpHJI0FtsVlVTUaiJz-o2IPN/edit#gid=1934289639)
+# Base de datos no convencionales [Lista de clase](https://docs.google.com/spreadsheets/d/14vRrlxrFk6a6wMRoQzcAlPPzOea9Tnc8/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 # [Syllabus](https://www.uv.mx/fei/plan-de-estudios/ingenieria-de-software/) del curso 
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
