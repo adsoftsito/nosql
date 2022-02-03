@@ -2,6 +2,7 @@
 # [Syllabus](https://www.uv.mx/fei/plan-de-estudios/ingenieria-de-software/) del curso 
 
 # Semana 1 - Procesamiento de fuente de datos CSV
+1.- Introduccion a [Google Colab](https://www.adictosaltrabajo.com/2019/06/04/google-colab-python-y-machine-learning-en-la-nube/)
 
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
