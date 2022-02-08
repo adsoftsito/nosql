@@ -2,8 +2,8 @@
 # [Syllabus](https://www.uv.mx/fei/plan-de-estudios/ingenieria-de-software/) del curso 
 
 # Semana 1 - Procesamiento de fuente de datos CSV
-1.- Introduccion a [Google Colab](https://www.adictosaltrabajo.com/2019/06/04/google-colab-python-y-machine-learning-en-la-nube/)
-2.- Introduccion a [Streamlit para CSV] (https://github.com/adsoftsito/nosql/blob/main/csv/Modulo_5_%20AplicacionWebdeCienciadedatos.pdf) Recursos [Colab Streamlit basico](https://github.com/adsoftsito/nosql/blob/main/csv/APRENDE_M5_sincronico.ipynb) Dataset [CSV](https://github.com/adsoftsito/nosql/blob/main/csv/dataset.csv)
+1. Introduccion a [Google Colab](https://www.adictosaltrabajo.com/2019/06/04/google-colab-python-y-machine-learning-en-la-nube/)
+2. Introduccion a [Streamlit para CSV](https://github.com/adsoftsito/nosql/blob/main/csv/Modulo_5_%20AplicacionWebdeCienciadedatos.pdf) Recursos [Colab Streamlit basico](https://github.com/adsoftsito/nosql/blob/main/csv/APRENDE_M5_sincronico.ipynb) Dataset [CSV](https://github.com/adsoftsito/nosql/blob/main/csv/dataset.csv)
 
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
