@@ -6,6 +6,15 @@
 2. Introduccion a [Streamlit para CSV](https://github.com/adsoftsito/nosql/blob/main/csv/Modulo_5_%20AplicacionWebdeCienciadedatos.pdf) Recursos [Colab Streamlit basico](https://github.com/adsoftsito/nosql/blob/main/csv/APRENDE_M5_sincronico.ipynb) Dataset [CSV](https://github.com/adsoftsito/nosql/blob/main/csv/dataset.csv)
 3. Procesamiento [avanzado de CSV](https://github.com/adsoftsito/nosql/blob/main/csv/DSAModulo5_Profundiza_final_AdolfoCenteno_Feb2022.pdf) Google [Colab](https://github.com/adsoftsito/nosql/blob/main/csv/PROFUNDIZA_M5_AdolfoCenteno_Feb2022.ipynb)
 4. Resolver casos [netflix y nyc](https://github.com/adsoftsito/nosql/blob/main/csv/LIVEMD5-Preparar%20para%20Aplicar_final.pdf)
+5. Resolver caso [employees](https://github.com/adsoftsito/nosql/blob/main/csv/LIVE_DSAI_M5_Plan%20del%20Reto_AdolfoCenteno.pdf)
+
+# Proyecto Parcial 1, fecha entrega : 8 Mar 2022
+1. Proyecto netflix  (Google Colab) --> 15 pts
+2. Proyecto netflix  (URL en produccion) --> 10 pts
+3. Proyecto nyc  (Google Colab) --> 15 pts
+4. Proyecto nyc  (URL en produccion) --> 10 pts
+5. Proyecto employees  (URL en produccion) --> 30 pts
+6. Proyecto employees  (URL en produccion) --> 20 pts
 
 
 # Semana 1 - Storage
@@ -15,7 +24,7 @@
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
-# Proyecto Parcial 1, fecha entrega : 06 Abril 2021
+# Proyecto Parcial 2, fecha entrega : 06 Abril 2022
 1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
 2. Logueo por facebook -> 20 pts
 3. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 40 pts
