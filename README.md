@@ -13,7 +13,7 @@
 2. Proyecto netflix  (URL en produccion) --> 10 pts
 3. Proyecto nyc  (Google Colab) --> 15 pts
 4. Proyecto nyc  (URL en produccion) --> 10 pts
-5. Proyecto employees  (URL en produccion) --> 30 pts
+5. Proyecto employees  (Google Colab) --> 30 pts
 6. Proyecto employees  (URL en produccion) --> 20 pts
 
 
