@@ -18,7 +18,7 @@
 
 
 # Semana 1 - Storage
-1. Primeros pasos con [react](https://www.udemy.com/course/react-the-beginners-course/)
+1. Primeros pasos con [react](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 
 # Semana 2 - Storage
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
