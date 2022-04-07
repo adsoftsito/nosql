@@ -45,16 +45,14 @@
 3. Mostrar lista de posts, tweets, pedidos, etc. (/posts) -> 25 pts
 3. Publicar rest-api de mongodb como https (heroku, google app engine, etc) y mongodb en atlas -> 25 pts
 
-# Semana 6 - Key Value database - Cassandra
-# Semana 8 - Apache HBASE
-# Semana 10 - Grafos - ArangoDB
+# Grafos - Neo4j
+1. [Neo4j](https://neo4j.com/developer/get-started/)
+2. [Graphql Api / Neo4j](https://neo4j.com/developer/graphql/)
 
-# Semana 12 - Hadoop
-
+# Hadoop
 ![hadoop](https://user-images.githubusercontent.com/11464353/109611299-a5121780-7af3-11eb-8187-657001405a58.png)
 
-# Semana 14 - Hadoop ecosystem
-
+# Hadoop ecosystem
 ![Apache-Hadoop-Ecosystem](https://user-images.githubusercontent.com/11464353/109611696-3d100100-7af4-11eb-8139-42ff41c8a6b9.png)
 
 # Proyecto Hadoop - Instalar un cluster de Hadoop con 3 nodos ( 1 master y 2 esclavos)
@@ -65,3 +63,6 @@
 2. [Instalacion y configuracion de hadoop](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) -> 40% ( de los 10 pts )
 3. [Probar con yarn]() -> 30% ( de los 10 pts )
 
+
+# Semana 6 - Key Value database - Cassandra
+# Semana 8 - Apache HBASE
