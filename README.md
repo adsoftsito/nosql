@@ -24,16 +24,13 @@
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
-# Proyecto Parcial 2, fecha entrega : 06 Abril 2022
+# Proyecto Parcial 2, fecha entrega : 22 Abril 2022
 1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
-2. Logueo por facebook -> 20 pts
+2. Logueo por facebook, gmail, entre otros -> 20 pts
 3. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 40 pts
 4. Mostrar lista de elementos (productos, cursos, libros, etc.) -> 30 pts
 5. Subir codigo fuente a repositorio, breve descripcion del proyecto en latex -> 10 pts
 
-# Semana 4 - Real time database 
-1. Install Android Studio
-2. [Kotlin lab](), gps, firebase database, storage
 
 # Semana 5 - Key Value database - MongoDB (con nodejs - javascript)
 1. [Javascript desde Cero](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit#slide=id.gd2dfca2dfb_0_5)
