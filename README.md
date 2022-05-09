@@ -40,8 +40,8 @@
 
 # Proyecto MongoDB - Puppeteer project
 0. Fecha entrega: 20 mayo 2021
-1. Realizar [Puppeteer](https://alotama.com/blog/como-scrapear-usando-puppeteer-js-paso-a-paso) -> 35 pts
-2. Realizar [Graphql] (https://alotama.com/blog/conectarse-a-mongodb-desde-graphql) -> 35 pts
+1. Realizar [Puppeteer project](https://alotama.com/blog/como-scrapear-usando-puppeteer-js-paso-a-paso) -> 35 pts
+2. Realizar [Graphql API](https://alotama.com/blog/conectarse-a-mongodb-desde-graphql) -> 35 pts
 3. Publicar rest-api de mongodb como https (heroku, google app engine, etc) y mongodb en atlas -> 30 pts
 
 # Grafos - Neo4j
