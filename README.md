@@ -45,16 +45,16 @@
 3. Publicar rest-api de mongodb como https (heroku, google app engine, etc) y mongodb en atlas -> 30 pts
 
 # Proyecto Hadoop - Fecha entrega: Dia de examen ordinario
-1.- Lectura [Instalacion, configuracion, introduccion a Spark/Hadoop](https://github.com/adsoftsito/nosql/blob/main/hadoop/bigData_LIVEDSA10A01_Aprender.pdf) realizar [Google Colab](https://github.com/adsoftsito/nosql/blob/main/hadoop/getting_started_with_pyspark_Colab_May2022.ipynb)  --> 25 pts
-2.- Lectura  [Tema 1 - Analisis estadistico numerico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema1/tema_1_1_analisis_estadistico_numerico.pdf) realizar Colab de los ejercicios   --> 25 pts
+1. Lectura [Instalacion, configuracion, introduccion a Spark/Hadoop](https://github.com/adsoftsito/nosql/blob/main/hadoop/bigData_LIVEDSA10A01_Aprender.pdf) realizar [Google Colab](https://github.com/adsoftsito/nosql/blob/main/hadoop/getting_started_with_pyspark_Colab_May2022.ipynb)  --> 25 pts
+2. Lectura  [Tema 1 - Analisis estadistico numerico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema1/tema_1_1_analisis_estadistico_numerico.pdf) realizar Colab de los ejercicios   --> 25 pts
 
 
 # Hadoop - actividades adicionales, ideas para llevar (opcionales, NO cuentan para nota del parcial 4)
 Instalar un cluster de Hadoop con 3 nodos ( 1 master y 2 esclavos)
-4. [Instalacion de los nodos](https://www.linode.com/docs/guides/getting-started/) 
+1. [Instalacion de los nodos](https://www.linode.com/docs/guides/getting-started/) 
    NOTA: En este paso el tutorial usa otra nube, favor de tomar esta configuracion y hacer los nodos en Google Compute Engine
-5. [Instalacion y configuracion de hadoop](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) 
-6. [Probar con yarn]() 
+2. [Instalacion y configuracion de hadoop](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) 
+3. [Probar con yarn]() 
 
 # Hadoop
 ![hadoop](https://user-images.githubusercontent.com/11464353/109611299-a5121780-7af3-11eb-8187-657001405a58.png)
