@@ -48,6 +48,8 @@
 1. Lectura [Instalacion, configuracion, introduccion a Spark/Hadoop](https://github.com/adsoftsito/nosql/blob/main/hadoop/bigData_LIVEDSA10A01_Aprender.pdf) realizar [Google Colab](https://github.com/adsoftsito/nosql/blob/main/hadoop/getting_started_with_pyspark_Colab_May2022.ipynb)  --> 25 pts
 2. Lectura  [Tema 1 - Analisis estadistico numerico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema1/tema_1_1_analisis_estadistico_numerico.pdf) realizar Colab de los ejercicios   --> 25 pts
 3. Lectura  [Tema 2 - Analisis grafico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema2/tema1_2_analisis_grafico_informacion.pdf) realizar Colab de los ejercicios   --> 25 pts
+4. Lectura  [Tema 2 - Analisis regresion](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema3/tema1_3_analisis_regresion_spark.pdf) realizar Colab de los ejercicios   --> 25 pts
+
 
 
 # Hadoop - actividades adicionales, ideas para llevar (opcionales, NO cuentan para nota del parcial 4)
