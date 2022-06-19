@@ -24,6 +24,7 @@
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
+
 # Proyecto Parcial 2, fecha entrega : 21 Abril 2022
 1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
 2. Logueo por facebook, gmail, entre otros -> 20 pts
@@ -49,6 +50,17 @@
 2. Lectura  [Tema 1 - Analisis estadistico numerico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema1/tema_1_1_analisis_estadistico_numerico.pdf) realizar Colab de los ejercicios   --> 25 pts
 3. Lectura  [Tema 2 - Analisis grafico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema2/tema1_2_analisis_grafico_informacion.pdf) realizar Colab de los ejercicios   --> 25 pts
 4. Lectura  [Tema 3 - Analisis regresion](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema3/tema1_3_analisis_regresion_spark.pdf) realizar Colab de los ejercicios   --> 25 pts
+
+# Rubrica Extraordinario, fecha entrega : 23/Jun/2022
+1. De manera INDIVIDUAL, crear una aplicacion en React con las siguientes especificaciones 
+2. Seleccionar una idea original para guardar objetos como Audios, videos, fotos, pdf's, xls, entre otros (usando storage de Firebase)
+3. Usando firestore guardar informacion adicional de los objetos como: codigo, descripcion, fecha, etc. 
+4. Repositorio git (con branch, issues, kanban ): 20 pts
+5. Logueo por facebook, gmail, entre otros -> 20 pts
+6. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 20 pts
+7. Mostrar lista de objetos almacenados, con su informacion adicional de firestore -> 20 pts
+8. Documento latex con descripcion y arquitectura del proyecto -> 20 pts
+NOTA: publicar en grupo de la clase, la idea seleccionada, para evitar duplicidad
 
 
 
