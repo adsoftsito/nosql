@@ -9,13 +9,10 @@
 4. Resolver casos [netflix y nyc](https://github.com/adsoftsito/nosql/blob/main/csv/LIVEMD5-Preparar%20para%20Aplicar_final.pdf)
 5. Resolver caso [employees](https://github.com/adsoftsito/nosql/blob/main/csv/LIVE_DSAI_M5_Plan%20del%20Reto_AdolfoCenteno.pdf)
 
-# Proyecto Parcial 1, fecha entrega : 8 Mar 2022
-1. Proyecto netflix  (Google Colab) --> 15 pts
-2. Proyecto netflix  (URL en produccion) --> 10 pts
-3. Proyecto nyc  (Google Colab) --> 15 pts
-4. Proyecto nyc  (URL en produccion) --> 10 pts
-5. Proyecto employees  (Google Colab) --> 30 pts
-6. Proyecto employees  (URL en produccion) --> 20 pts
+# Proyecto Parcial 1
+2. Proyecto netflix  (URL en produccion) --> 15 pts
+4. Proyecto nyc  (URL en produccion) --> 15 pts
+5. Proyecto individual  --> 70 pts  (fecha entrega : 9 Mar 2022, 14 de Marzo)
 
 
 # Semana 1 - Storage
