@@ -10,7 +10,7 @@
 5. Resolver caso [employees](https://github.com/adsoftsito/nosql/blob/main/csv/LIVE_DSAI_M5_Plan%20del%20Reto_AdolfoCenteno.pdf)
 
 # Proyecto Parcial 1
-2. Proyecto netflix  (URL en produccion) --> 15 pts
+2. Proyecto netflix  (URL en produccion) --> 15 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
 4. Proyecto nyc  (URL en produccion) --> 15 pts
 5. Proyecto individual  --> 70 pts  (fecha entrega : 9 Mar 2022, 14 de Marzo)
 
