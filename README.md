@@ -1,5 +1,5 @@
 # Base de datos no convencionales 
-# [Actividades clase](https://docs.google.com/spreadsheets/d/1sSFZpNMYGgFQs5Qt3WFp9z9cO3sDsgIFVsat_0oZK-8/edit?usp=sharing)
+# [Actividades clase](https://docs.google.com/spreadsheets/d/1erxB7EsiHobpTc3J1s9U8fd27_GpkCTQ8YOZrMpLPO8/edit?usp=sharing)
 # [Syllabus](https://www.uv.mx/fei/plan-de-estudios/ingenieria-de-software/) del curso 
 
 # Semana 1 - Procesamiento de fuente de datos CSV
