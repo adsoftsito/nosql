@@ -11,7 +11,7 @@
 
 # Proyecto Parcial 1
 2. Proyecto netflix  (URL en produccion) --> 15 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
-4. Proyecto nyc  (URL en produccion) --> 15 pts
+4. Proyecto nyc  (URL en produccion) --> 15 pts, , NOTA ( valido solo con foto de credencial como logo, correo institucional y nombre)
 5. Proyecto individual  --> 70 pts  (fecha entrega : 9 Mar 2022, 14 de Marzo)
 
 
