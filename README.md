@@ -12,8 +12,14 @@
 # Proyecto Parcial 1
 2. Proyecto netflix  (URL en produccion) --> 15 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
 4. Proyecto nyc  (URL en produccion) --> 15 pts, , NOTA ( valido solo con foto de credencial como logo, correo institucional y nombre)
-5. Proyecto individual  --> 70 pts  (fecha entrega : 9 Mar 2022, 14 de Marzo)
-
+5. Proyecto individual  --> 70 pts  (fecha entrega : 14 Mar 2023 y 16 de Marzo 2023)
+   - Logo del proyecto, author, visualizacion (con cache) de dataset con n renglones --> 5 pts
+   - Buscador de informacion del dataset con textos y boton --> 5 pts
+   - Filtrado de informacion con select o multiselect --> 5 pts
+   - histograma por algun campo de interes para el tema del proyecto  (explicar el significado del grafico) --> 5 pts
+   - grafica de barras relacionando 2 columnas de interes (explicar el significado del grafico) 5 pts.
+   - grafica scatter sobre algun tema de interes (explicar el significado del grafico) --> 5 pts
+   - Update del proyecto en localhost con base de datos local, sin subir a repositorio (Ejemplo: nueva busqueda, filtrado, grafico, mapa, entre otros ) --> 40 pts
 
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
