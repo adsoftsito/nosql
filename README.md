@@ -26,6 +26,7 @@
 
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
+2. Deploy React in  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 
 # Semana 2 - Storage
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
