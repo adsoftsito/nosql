@@ -42,11 +42,10 @@
 6. Update en localhost durante la revision del proyecto -> 50 pts.
 
 
-# Semana 5 - Key Value database - MongoDB (con nodejs - javascript)
-1. [Javascript desde Cero](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit#slide=id.gd2dfca2dfb_0_5)
-2. [NodeJS desde Cero](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit#slide=id.gd35d1e4ed9_0_183)
+# Parcial 3 
+1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
+2. Realizar Lab 1 [Install Kafka Local](https://kafka.apache.org/quickstart#quickstart_kafkaconnect)
 3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
-4. [Deploy a heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 # Proyecto MongoDB - Puppeteer project
 0. Fecha entrega: 26 mayo 2022
