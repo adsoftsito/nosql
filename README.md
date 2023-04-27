@@ -33,12 +33,13 @@
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
 
-# Proyecto Parcial 2, fecha entrega : 21 Abril 2022
-1. Crear una aplicacion web tipo (youtube, udacity, gotrendier, dropbox, instagram, etc.)
-2. Logueo por facebook, gmail, entre otros -> 20 pts
-3. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 40 pts
-4. Mostrar lista de elementos (productos, cursos, libros, etc.) -> 30 pts
-5. Subir codigo fuente a repositorio, breve descripcion del proyecto en latex -> 10 pts
+# Rubrica Parcial 2, fecha entrega : 2/4 Mayo 2022
+0. Tarea de Rick-Morty --> 15 pts 
+1. Personalizar su aplicacion con un layout tipo (youtube, spotify, facebook, udacity, gotrendier, dropbox, instagram, etc.) -> 15 pts
+3. Agregar un componente en cada item para agregar likes (love, hate, sad, ungry, etc.) -> 5 pts
+4. Agregar un componente en cada item para agregar comentarios (texto y boton etc.) -> 5 pts
+5. Publicar en nube de okteto con n replicas en branch release  -> 10 pts
+6. Update en localhost durante la revision del proyecto -> 50 pts.
 
 
 # Semana 5 - Key Value database - MongoDB (con nodejs - javascript)
