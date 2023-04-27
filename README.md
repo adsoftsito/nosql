@@ -38,8 +38,9 @@
 1. Personalizar su aplicacion con un layout tipo (youtube, spotify, facebook, udacity, gotrendier, dropbox, instagram, etc.) -> 15 pts
 3. Agregar un componente en cada item para agregar likes (love, hate, sad, ungry, etc.) -> 5 pts
 4. Agregar un componente en cada item para agregar comentarios (texto y boton etc.) -> 5 pts
-5. Publicar en nube de okteto con n replicas en branch release  -> 10 pts
-6. Update en localhost durante la revision del proyecto -> 50 pts.
+5. Publicar en nube de okteto con n replicas en branch release  -> 5 pts
+6. Publicar en nube de okteto con n replicas en branch master  -> 5 pts
+7. Update en localhost durante la revision del proyecto -> 50 pts.
 
 
 # Parcial 3 
