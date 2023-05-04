@@ -47,6 +47,8 @@
 1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
 2. Realizar Lab 1 [Install Kafka Local](https://kafka.apache.org/quickstart#quickstart_kafkaconnect)
 3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
+4. Install [Kakfa on Kubernetes](https://docs.google.com/presentation/d/1LwTdE82qPk6dL4gW9dcmZ6uBqJXItCZ6zulONf6lq3E/edit?usp=sharing)
+
 
 # Proyecto MongoDB - Puppeteer project
 0. Fecha entrega: 26 mayo 2022
