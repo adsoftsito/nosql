@@ -1,5 +1,4 @@
 # Base de datos no convencionales 
-# [Lista clase - mat ](https://docs.google.com/spreadsheets/d/1dOm-NY6SsUxfwRUGWg7L3a67ItgLGb5osRW-cUIdIvA/edit?usp=sharing)
 
 # [Lista clase - vesp](https://docs.google.com/spreadsheets/d/1aDId7xSsn4z9s0jkYY5f1whpYE5-utFabXUWKiKDMnA/edit?usp=sharing)
 
