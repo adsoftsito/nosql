@@ -12,9 +12,11 @@
 5. Resolver caso [employees](https://github.com/adsoftsito/nosql/blob/main/csv/LIVE_DSAI_M5_Plan%20del%20Reto_AdolfoCenteno.pdf)
 
 # Proyecto Parcial 1
-2. Proyecto netflix  (URL en produccion) --> 15 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
+1. lab basico streamlit  --> 5 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
+2. lab avanzado streamlit  (URL en produccion) --> 5 pts, , NOTA ( valido solo con foto de credencial como logo, correo institucional y nombre)
+3. Proyecto netflix  (URL en produccion) --> 15 pts, NOTA ( valido solo con Nombre, matricula y foto de credencial como logo)
 4. Proyecto nyc  (URL en produccion) --> 15 pts, , NOTA ( valido solo con foto de credencial como logo, correo institucional y nombre)
-5. Proyecto individual  --> 70 pts  (fecha entrega : 14 Mar 2023 y 16 de Marzo 2023)
+5. Proyecto individual  --> 60 pts  (fecha entrega : 14 Mar 2023 y 16 de Marzo 2023)
    - Logo del proyecto, author, visualizacion (con cache) de dataset con n renglones --> 5 pts
    - Buscador de informacion del dataset con textos y boton --> 5 pts
    - Filtrado de informacion con select o multiselect --> 5 pts
