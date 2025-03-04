@@ -26,6 +26,21 @@
    - grafica scatter sobre algun tema de interes (explicar el significado del grafico) --> 5 pts
    - Update del proyecto en localhost con base de datos local, sin subir a repositorio (Ejemplo: nueva busqueda, filtrado, grafico, mapa, entre otros ) --> 40 pts
 
+
+# Parcial 2
+[Intro a Spark](https://docs.google.com/presentation/d/1RyU_3-XpaNF8y8J58ecXHO8Zuw178n43/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
+
+# Rubrica Parcial 2, fecha entrega : 2/4 Mayo 2022
+
+
+
+# Parcial 3 
+1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
+2. Realizar Lab 1 [Install Kafka Local](https://kafka.apache.org/quickstart#quickstart_kafkaconnect)
+3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
+4. Install [Kakfa on Kubernetes](https://docs.google.com/presentation/d/1LwTdE82qPk6dL4gW9dcmZ6uBqJXItCZ6zulONf6lq3E/edit?usp=sharing)
+
 # Semana 1 - Storage
 1. Primeros pasos con [react](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 2. Deploy React in  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
@@ -34,22 +49,6 @@
 1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
 2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
 3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
-
-# Rubrica Parcial 2, fecha entrega : 2/4 Mayo 2022
-0. Tarea de Rick-Morty --> 15 pts 
-1. Personalizar su aplicacion con un layout tipo (youtube, spotify, facebook, udacity, gotrendier, dropbox, instagram, etc.) -> 15 pts
-3. Agregar un componente en cada item para agregar likes (love, hate, sad, ungry, etc.) -> 5 pts
-4. Agregar un componente en cada item para agregar comentarios (texto y boton etc.) -> 5 pts
-5. Publicar en nube de okteto con n replicas en branch release  -> 5 pts
-6. Publicar en nube de okteto con n replicas en branch master  -> 5 pts
-7. Update en localhost durante la revision del proyecto -> 50 pts.
-
-
-# Parcial 3 
-1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
-2. Realizar Lab 1 [Install Kafka Local](https://kafka.apache.org/quickstart#quickstart_kafkaconnect)
-3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
-4. Install [Kakfa on Kubernetes](https://docs.google.com/presentation/d/1LwTdE82qPk6dL4gW9dcmZ6uBqJXItCZ6zulONf6lq3E/edit?usp=sharing)
 
 
 # Proyecto MongoDB - Puppeteer project
