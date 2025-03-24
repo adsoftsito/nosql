@@ -31,6 +31,9 @@
 [Intro a Spark](https://docs.google.com/presentation/d/1RyU_3-XpaNF8y8J58ecXHO8Zuw178n43/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 [Streamlit & Spark](https://docs.google.com/presentation/d/1l1NoyGXCLN0GghJKSXD43z0hrK9v5-XD/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
+[Intro kafka](https://docs.google.com/presentation/d/1vgs6ani0TRjazlf232yasT5Ci-6EZQVV/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+[kafka Mongodb/postgresql](https://docs.google.com/presentation/d/13hVS4emRvgeyAQz6tyMwUN4mg0axEDp8/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
 
 # Rubrica Parcial 2, fecha entrega : 2/4 Mayo 2022
 
