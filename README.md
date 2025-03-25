@@ -35,9 +35,8 @@
 [kafka Mongodb/postgresql](https://docs.google.com/presentation/d/13hVS4emRvgeyAQz6tyMwUN4mg0axEDp8/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 
-# Rubrica Parcial 2, fecha entrega : 2/4 Mayo 2022
-
-
+# Rubrica Parcial 2
+[rubrica](https://docs.google.com/presentation/d/1-fznJ_PAh2AeT9k0nnQMv-1nhLOjpPtS/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 # Parcial 3 
 1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
