@@ -38,48 +38,7 @@
 # Rubrica Parcial 2
 [rubrica](https://docs.google.com/presentation/d/1-fznJ_PAh2AeT9k0nnQMv-1nhLOjpPtS/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
-# Parcial 3 
-1. Lectura que es [Apache Kafka](https://www.redhat.com/es/topics/integration/what-is-apache-kafka)
-2. Realizar Lab 1 [Install Kafka Local](https://kafka.apache.org/quickstart#quickstart_kafkaconnect)
-3. [Introduccion a MongoDB](https://github.com/adsoftsito/iotec/blob/master/day1/iotec_day_1.pdf)
-4. Install [Kakfa on Kubernetes](https://docs.google.com/presentation/d/1LwTdE82qPk6dL4gW9dcmZ6uBqJXItCZ6zulONf6lq3E/edit?usp=sharing)
-
-# Semana 1 - Storage
-1. Primeros pasos con [react](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
-2. Deploy React in  [Docker/Kubernetes](https://docs.google.com/presentation/d/1YFgDfZ9FLu3dwyANWK_xfL54NgahGA8C/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
-
-# Semana 2 - Storage
-1. Resolver lab [react-firebase](https://dev.to/itnext/how-to-do-image-upload-with-firebase-in-react-cpj)
-2. Laboratorio React con [Firestore](https://bezkoder.com/react-firestore-crud/)
-3. Laboratorio React con [facebook login](https://www.djamware.com/post/5e6d6a9a05efef95f94c4aed/reactjs-tutorial-facebook-login-example)
-
-
-# Proyecto MongoDB - Puppeteer project
-0. Fecha entrega: 26 mayo 2022
-1. Realizar [Puppeteer project](https://alotama.com/blog/como-scrapear-usando-puppeteer-js-paso-a-paso) -> 35 pts
-2. Realizar [Graphql API](https://alotama.com/blog/conectarse-a-mongodb-desde-graphql) -> 35 pts
-3. Publicar rest-api de mongodb como https (heroku, google app engine, etc) y mongodb en atlas -> 30 pts
-
-# Proyecto Hadoop - Fecha entrega: Dia de examen ordinario
-1. Lectura [Instalacion, configuracion, introduccion a Spark/Hadoop](https://github.com/adsoftsito/nosql/blob/main/hadoop/bigData_LIVEDSA10A01_Aprender.pdf) realizar [Google Colab](https://github.com/adsoftsito/nosql/blob/main/hadoop/getting_started_with_pyspark_Colab_May2022.ipynb)  --> 25 pts
-2. Lectura  [Tema 1 - Analisis estadistico numerico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema1/tema_1_1_analisis_estadistico_numerico.pdf) realizar Colab de los ejercicios   --> 25 pts
-3. Lectura  [Tema 2 - Analisis grafico](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema2/tema1_2_analisis_grafico_informacion.pdf) realizar Colab de los ejercicios   --> 25 pts
-4. Lectura  [Tema 3 - Analisis regresion](https://github.com/adsoftsito/nosql/blob/main/hadoop/tema3/tema1_3_analisis_regresion_spark.pdf) realizar Colab de los ejercicios   --> 25 pts
-
-# Rubrica Extraordinario, fecha entrega : 23/Jun/2022
-1. De manera INDIVIDUAL, crear una aplicacion en React con las siguientes especificaciones 
-2. Seleccionar una idea original para guardar objetos como Audios, videos, fotos, pdf's, xls, entre otros (usando storage de Firebase)
-3. Usando firestore guardar informacion adicional de los objetos como: codigo, descripcion, fecha, etc. 
-4. Repositorio git (con branch, issues, kanban ): 20 pts
-5. Logueo por facebook, gmail, entre otros -> 20 pts
-6. Cada usuario puede subir archivos (videos, jpg, pdf, etc) -> 20 pts
-7. Mostrar lista de objetos almacenados, con su informacion adicional de firestore -> 20 pts
-8. Documento latex con descripcion y arquitectura del proyecto -> 20 pts
-NOTA: publicar en grupo de la clase, la idea seleccionada, para evitar duplicidad
-
-
-
-# Hadoop - actividades adicionales, ideas para llevar (opcionales, NO cuentan para nota del parcial 4)
+# Parcial 3 - Proyecto Hadoop 
 Instalar un cluster de Hadoop con 3 nodos ( 1 master y 2 esclavos)
 1. [Instalacion de los nodos](https://www.linode.com/docs/guides/getting-started/) 
    NOTA: En este paso el tutorial usa otra nube, favor de tomar esta configuracion y hacer los nodos en Google Compute Engine
@@ -92,9 +51,3 @@ Instalar un cluster de Hadoop con 3 nodos ( 1 master y 2 esclavos)
 # Hadoop ecosystem
 ![Apache-Hadoop-Ecosystem](https://user-images.githubusercontent.com/11464353/109611696-3d100100-7af4-11eb-8139-42ff41c8a6b9.png)
 
-
-# Semana 6 - Key Value database - Cassandra
-# Semana 8 - Apache HBASE
-# Grafos - Neo4j
-1. [Neo4j](https://neo4j.com/developer/get-started/)
-2. [Graphql Api / Neo4j](https://neo4j.com/developer/graphql/)
